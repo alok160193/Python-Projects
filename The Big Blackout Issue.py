@@ -19,9 +19,9 @@ def blackout_issue(mylist):
 		    
 		    while(mylist[i]!='Blue Pole'):
 		        
-		      #  print("2")
+		     
 		        summylist=summylist+mylist[i]
-		      #  print(summylist)
+		     
 		        i=i+1
 		    if mylist[i]=='Blue Pole':
 		        
