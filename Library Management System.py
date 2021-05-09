@@ -41,7 +41,7 @@ if __name__=="__main__":
               4.Exit''')
 
 
-        choice=int(input("Plz Enter your choice(1-4)\n"))
+        choice=int(input("Please Enter your choice(1-4)\n"))
         if choice == 1:
             l.ListofavailableBooks()
 
